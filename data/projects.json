@@ -5,7 +5,7 @@
     "technologies": ["HTML", "CSS", "JavaScript"],
     "role": "Solo developer: designed the layout and wrote the calendar, filter and add-event features.",
     "screenshot": "community-calendar.png",
-    "link": "https://github.com/Dela-Cruz-Mhelvin/community-calendar"
+    "link": "https://dela-cruz-mhelvin.github.io/community-calendar/"
   },
    {
     "title": "Login Page",
@@ -13,15 +13,7 @@
     "technologies": ["HTML", "CSS"],
     "role": "Solo developer: wrote the page structure and styling.",
     "screenshot": "login-page.png",
-    "link": "https://github.com/Dela-Cruz-Mhelvin/login-page"
-  },
-  {
-    "title": "To-Do List App",
-    "description": "A task list where you can add, check off, and delete tasks, with filters for done and pending items.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Developer: built the add, complete, delete and filter features.",
-    "screenshot": "todo-list-app.png",
-    "link": "https://github.com/Dela-Cruz-Mhelvin/todo-list-app"
+    "link": "https://dela-cruz-mhelvin.github.io/login-page/"
   },
   {
     "title": "Personal Webpage",
@@ -29,6 +21,6 @@
     "technologies": ["HTML", "CSS"],
     "role": "Solo developer: wrote all the content and styling for a class activity.",
     "screenshot": "personal-webpage.png",
-    "link": "https://github.com/Dela-Cruz-Mhelvin/personal-webpage"
+    "link": "https://dela-cruz-mhelvin.github.io/personal-webpage/"
   }
 ]
