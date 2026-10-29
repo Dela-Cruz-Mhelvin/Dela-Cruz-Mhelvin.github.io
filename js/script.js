@@ -77,7 +77,7 @@ function makeProjectCard(project) {
   link.href = project.link;
   link.target = "_blank";
   link.rel = "noopener";
-  link.textContent = "View on GitHub";
+  link.textContent = "View Live Demo";
   body.appendChild(link);
 
   card.appendChild(body);
