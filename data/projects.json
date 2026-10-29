@@ -1,19 +1,19 @@
 [
   {
-    "title": "Student Grade Tracker",
-    "description": "A web app where students enter their subjects and grades and see their average update instantly.",
+    "title": "Community Event Calendar",
+    "description": "An interactive calendar where you can browse community events by month, filter them by category, and add new events.",
     "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Developer: wrote the page structure, styling, and the average calculation.",
-    "screenshot": "student-grade-tracker.png",
-    "link": "https://github.com/Dela-Cruz-Mhelvin/student-grade-tracker"
+    "role": "Solo developer: designed the layout and wrote the calendar, filter and add-event features.",
+    "screenshot": "community-calendar.png",
+    "link": "https://github.com/Dela-Cruz-Mhelvin/community-calendar"
   },
-  {
-    "title": "Barangay Events Calendar",
-    "description": "A simple calendar page that lists upcoming community events and loads them from a JSON file.",
-    "technologies": ["HTML", "CSS", "JavaScript", "JSON"],
-    "role": "Developer: designed the layout and loaded the event list with fetch().",
-    "screenshot": "barangay-events-calendar.png",
-    "link": "https://github.com/Dela-Cruz-Mhelvin/barangay-events-calendar"
+   {
+    "title": "Login Page",
+    "description": "A styled login page with a form layout, built with HTML and an external CSS file.",
+    "technologies": ["HTML", "CSS"],
+    "role": "Solo developer: wrote the page structure and styling.",
+    "screenshot": "login-page.png",
+    "link": "https://github.com/Dela-Cruz-Mhelvin/login-page"
   },
   {
     "title": "To-Do List App",
