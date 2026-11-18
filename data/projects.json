@@ -22,5 +22,13 @@
     "role": "Solo developer: wrote all the content and styling for a class activity.",
     "screenshot": "personal-webpage.png",
     "link": "https://dela-cruz-mhelvin.github.io/personal-webpage/"
+  },
+    {
+    "title": "Community Event Calendar (Flutter App)",
+    "description": "A mobile app that shows community events on a monthly calendar, with categories, filters, a coming-up list, and light and dark themes.",
+    "technologies": ["Flutter", "Dart"],
+    "role": "Solo developer: designed the screens and built the calendar, add and delete features, and saved data.",
+    "screenshot": "flutter-calendar.png",
+    "link": "https://github.com/Dela-Cruz-Mhelvin/community-event-calendar-app"
   }
 ]
