@@ -1,12 +1,4 @@
 [
-  {
-    "title": "Community Event Calendar",
-    "description": "An interactive calendar where you can browse community events by month, filter them by category, and add new events.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Solo developer: designed the layout and wrote the calendar, filter and add-event features.",
-    "screenshot": "community-calendar.png",
-    "link": "https://dela-cruz-mhelvin.github.io/community-calendar/"
-  },
    {
     "title": "Login Page",
     "description": "A styled login page with a form layout, built with HTML and an external CSS file.",
